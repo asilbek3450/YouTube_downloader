@@ -113,11 +113,8 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.2/howto/static-files/
 
 STATIC_URL = '/static/'
-<<<<<<< HEAD
 STATIC_ROOT = "/home/a2304/YouTube_downloader/app/static"
-=======
 STATIC_ROOT = BASE_DIR / 'static'
->>>>>>> 2332aaec0d062c32e19d1996f9daba3241841770
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
